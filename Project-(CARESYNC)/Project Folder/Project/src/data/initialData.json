@@ -283,5 +283,50 @@
       "findings": "Increased echogenicity of the hepatic parenchyma consistent with moderate diffuse fatty infiltration. Gallbladder, spleen, and kidneys appear normal size without calculi.",
       "impression": "Hepatic Steatosis (Fatty Liver) secondary to metabolic syndrome."
     }
+  },
+  {
+    "id": "ADM-79717",
+    "name": "New Admission",
+    "age": 0,
+    "gender": "Unspecified",
+    "dischargeDate": "TBD",
+    "status": "Admitted / Evaluating",
+    "diagnosis": "Pending Diagnostics",
+    "readyToDischarge": false,
+    "patientConsentedDischarge": false,
+    "medications": [],
+    "notes": "",
+    "vitals": {
+      "days": [
+        "Admit"
+      ],
+      "bpm": [
+        80
+      ],
+      "systolicBP": [
+        120
+      ],
+      "diastolicBP": [
+        80
+      ],
+      "spo2": [
+        98
+      ]
+    },
+    "diet": {
+      "carbs": 40,
+      "protein": 30,
+      "fats": 20,
+      "fiber": 10
+    },
+    "bloodTests": {
+      "WBC": "Pending",
+      "RBC": "Pending",
+      "Hemoglobin": "Pending"
+    },
+    "radiology": {
+      "modality": "Pending",
+      "findings": "No scans ordered."
+    }
   }
 ]
